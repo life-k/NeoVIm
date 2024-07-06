@@ -3,7 +3,7 @@ return {
     config = function()
         require("lualine").setup({
             option = {
-                theme = "codedark",
+                theme = "iceberg_dark",
             },
         })
     end,
